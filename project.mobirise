@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Streaming",
-    "currentPage": "action.html",
+    "currentPage": "ant-man-et-la-guepe.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -1085,7 +1085,7 @@
         }
       ]
     },
-    "page7.html": {
+    "ant-man-et-la-guepe.html": {
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Ant-man et la guêpe",
