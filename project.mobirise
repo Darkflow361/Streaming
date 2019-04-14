@@ -529,18 +529,24 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/desktop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/bright-600x890.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/coworkers.jpg",
+              "src": "@PROJECT_PATH@/assets/images/il-794xn.1717708274-1g3n-600x851.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media4": {
@@ -570,12 +576,12 @@
           "title1": "Black Panther",
           "subtitle1": "2018",
           "caption1": "Après les événements qui se sont déroulés dans Captain America : Civil War, T'Challa revient chez lui prendre sa place sur le trône du Wakanda, une nation africaine technologiquement très avancée mais lorsqu'un vieil ennemi resurgit, le courage de T'Challa est mis à rude épreuve, aussi bien en tant que souverain qu'en tant que Black Panther. Il se retrouve entraîné dans un conflit qui menace non seulement le destin du Wakanda mais celui du monde entier.",
-          "title2": "Responsive",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title2": "Bright",
+          "subtitle2": "2017",
+          "caption2": "Dans un monde contemporain alternatif, humains, orcs, elfes et fées coexistent depuis le début des temps. Confrontés aux ténèbres lors d'une patrouille nocturne de routine à Los Angeles, ils tombent sur un objet puissant et ils voient leur avenir et leur monde se métamorphoser à jamais.",
+          "title3": "Bumblebee",
+          "subtitle3": "2018",
+          "caption3": "En 1987, alors qu'il est en fuite, l'Autobot Bumblebee trouve refuge dans la décharge d'une petite ville balnéaire de Californie. Il est découvert, cassé et sérieusement blessé, par Charlie, une ado qui approche de ses 18 ans, et cherche sa place dans le monde. Lorsqu'elle le met en marche, elle se rend vite compte qu'il ne s'agit pas d'une voiture jaune ordinaire.",
           "title4": "Unlimited Sites",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
