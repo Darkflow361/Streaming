@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Streaming",
-    "currentPage": "action.html",
+    "currentPage": "accident-man.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -41,6 +41,12 @@
           "_styles": {
             ".mbr-section-title, .lead p": {
               "color": "#fff"
+            },
+            "H3": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
             }
           },
           "_params": {
