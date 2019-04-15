@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Streaming",
-    "currentPage": "films-a-plusieurs-volets.html",
+    "currentPage": "action.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -426,7 +426,7 @@
           },
           "title": "Action",
           "text": "Ici, tu as tous les films d'action.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Films d'actions à plusieurs volets</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"films-a-plusieurs-volets.html\" data-toolbar=\"-mbrBtnMove\">Films d'actions à plusieurs volets</a> ",
           "_tags": [
             "Thème"
           ],
