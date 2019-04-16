@@ -1115,18 +1115,24 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/coworkers.jpg",
+              "src": "@PROJECT_PATH@/assets/images/3264271.jpg-r-1280-720-f-jpg-q-x-xxyxx-531x720.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/code-man.jpg",
+              "src": "@PROJECT_PATH@/assets/images/3970549-affiche-personnage-du-film-love-addict-950x0-1-600x817.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media5": {
@@ -1152,11 +1158,11 @@
           "subtitle2": "2016",
           "caption2": "DescriptionAu coeur de Los Angeles, une actrice en devenir prénommée Mia sert des cafés entre des auditions. De son côté, Sebastian, passionné de jazz, joue du piano dans des clubs miteux pour assurer sa subsistance. Tous deux sont bien loin de la vie rêvée à laquelle ils aspirent, mais ils développent des sentiments amoureux l'un pour l'autre.",
           "title3": "Les municipaux, ces héros",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "subtitle3": "2018",
+          "caption3": "Port Vendres est un port magnifique situé en Catalogne française. Magnifique et tellement français : son maire est bling-bling et ses employés municipaux toujours à fond. À fond dans les acquis sociaux, à fond contre les cadences infernales, à fond dans la déconne ; c'est ce qui fait qu'on les aime. Si de plus ils deviennent des héros alors il n'y a plus aucune raison de ne pas s'inscrire à ce voyage dans la vraie vie.",
+          "title4": "Love Addict",
+          "subtitle4": "2018",
+          "caption4": "Gabriel est un love addict, un amoureux compulsif des femmes. Un sourire, un regard, un parfum, il craque. A force de dérapages de plus en plus acrobatiques entre sa vie sociale et sa vie professionnelle, Gabriel est totalement grillé. Bien décidé à changer (ou du moins à essayer), il recourt aux services d'une agence de `Minder', sorte de coach personnel 2.0. C'est Marie-Zoé, aux méthodes plutôt atypiques, qui va prendre en main le cas de Gabriel pour une thérapie de choc.",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -1206,18 +1212,24 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/table.jpg",
+              "src": "@PROJECT_PATH@/assets/images/507963-600x815.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/desktop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/4943524-600x817.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media3": {
@@ -1252,12 +1264,12 @@
               "active": true
             }
           },
-          "title1": "Bootstrap 4",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "Responsive",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title1": "Les nouvelles aventures d'Aladin",
+          "subtitle1": "2015",
+          "caption1": "Sam et Khalid, deux jeunes voleurs, préparent un coup dans un grand magasin le soir du 24 décembre. Déguisé en père Noël pour mieux se fondre dans le décor, Sam est pris à parti par des enfants qui lui réclament une histoire. Afin de ne pas attirer l'attention, Sam se lance alors dans le récit d'Aladin.",
+          "title2": "Midnight Sun",
+          "subtitle2": "2018",
+          "caption2": "Midnight Sun ou Soleil de minuit au Québec est un film dramatique américain réalisé par Scott Speer, sorti en 2018. C'est un remake du film japonais Taiyō no Uta sorti en 2006",
           "title3": "Web Fonts",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
