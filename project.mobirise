@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Streaming",
-    "currentPage": "serie.html",
+    "currentPage": "got-1.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -6514,7 +6514,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"Taxi.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"got-1.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button2": "<a data-app-btn=\"true\" href=\"iron-man.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -6892,6 +6892,561 @@
               "background-color": "#2e2e2e"
             }
           }
+        }
+      ]
+    },
+    "got-1.html": {
+      "settings": {
+        "meta_descr": "Web Builder Description",
+        "title": "Game of Thrones - saison 1",
+        "order": 31
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/65tr-1920x1200.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.3"
+          },
+          "title": "Game of Thrones<br>Saison 1",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-16"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-section-title, .lead p": {
+              "color": "#fff"
+            },
+            "H3": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "6",
+            "paddingBottom": "6",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mountains.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/46038600348d54aa5eb35d8792fcf575-1184x1184.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Episode 1",
+          "text": "<b>Winter is coming</b><br><br>Sur le continent de Westeros, une unité de la Garde de Nuit, chargée de veiller sur le Mur, est presque entièrement massacrée lors d'une patrouille au nord du Mur. Un jeune patrouilleur réussit à s'enfuir, mais il est arrêté et condamné à mort pour désertion par Eddard Stark, seigneur de Winterfell et gouverneur du Nord. Au moment où sa sentence s'apprête à être exécutée, le déserteur révèle que ce sont des Marcheurs blancs, des créatures surnaturelles, qui ont tué ses compagnons. Mais de sombres nouvelles arrivent de Port-Réal, la capitale des Sept Couronnes : Jon Arryn, ami intime d'Eddard et main du roi Robert Baratheon, vient de mourir. Le roi Robert et sa cour entreprennent alors un voyage vers Winterfell, pour gratifier son ami Eddard de la charge de main du roi. Pendant ce temps, les descendants en exil des rois Targaryen (renversés par Robert) fomentent leur retour à Westeros par un jeu d'alliance avec les Dothrakis, une tribu de guerriers nomades.\n<br>\n<br>Alors qu'à Winterfell les festivités vont bon train durant le séjour du roi, Brandon, l'un des fils d'Eddard Stark, découvre la relation adultère incestueuse qu'entretient la reine avec son frère jumeau Jaime. Ce dernier pousse alors Brandon dans le vide.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://www.youtube.com/results?search_query=trailer+taxi+1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">View</a>",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "msg-box7",
+          "_anchor": "msg-box7-f"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "30px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Catégorie</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"action.html\">Action</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"animation.html\">Animation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"comedie.html\" aria-expanded=\"false\">Comédie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"all.html\" aria-expanded=\"false\">All<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"serie.html\" aria-expanded=\"false\">Série</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"a-z.html\" aria-expanded=\"false\">De A à Z</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/capture-127x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Streaming</a>",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-7"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-embedded-video",
+              "src": "https://openload.co/f/hpex6FhQ0Jw/Taxi.1.FRENCH.DVDRiP.avi.mp4",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-i"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-section-title, .lead p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "6",
+            "paddingBottom": "6",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mountains.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/7789710527-gendry-est-incarne-par-joe-dempsy-1-880x585.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Episode 2",
+          "text": "<b>The Kingsroad<br></b><br>Daenerys Targaryen, fraîchement mariée au khal Drogo, entreprend avec les Dothrakis et son frère le long voyage vers Vaes Dothrak. Afin de mieux satisfaire son mari et de prendre du plaisir à le faire, elle prend des leçons d’amour auprès d'une de ses caméristes.\n<br>\n<br>À Winterfell, alors que Bran est toujours dans le coma à la suite de sa chute, Ned prépare son départ pour Port-Réal. Catelyn, dévastée par l'état de Bran, ne prend pas part aux adieux à sa famille : Arya et Sansa accompagnent leur père, Jon part vers le nord, sur le Mur, accompagné de son oncle Benjen et de Tyrion Lannister. Seuls restent à Winterfell Robb, Rickon et Bran. Lorsqu'un assassin tente de s'en prendre à Bran, toujours dans le coma, il est tué par le loup de ce dernier. Catelyn décide alors de mener l'enquête et de partir à Port-Réal prévenir son mari des dangers qui le guettent.\n<br>\n<br>Sur la longue route qui sépare Winterfell de la capitale des sept couronnes, le prince Joffrey menace Arya et un ami à elle. La louve d'Arya mord le prince et s'ensuit une querelle entre Lannister et Stark. La reine ordonne finalement que la louve de Sansa soit exécutée, celle d'Arya demeurant introuvable.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"got-1.html#video2-v\" data-toolbar=\"-mbrBtnMove\">View</a>",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "msg-box7",
+          "_anchor": "msg-box7-r"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-embedded-video",
+              "src": "https://openload.co/f/5-AS7dsRQoQ/Taxi%2B2.avi.mp4",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-v"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-section-title, .lead p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "6",
+            "paddingBottom": "6",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mountains.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/jon-snow-1400x2099.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Episode 3",
+          "text": "<b>Lord Snow<br></b><br>À peine arrivé à Port-Réal, Eddard Stark est convoqué à une session du Conseil restreint et découvre alors que le royaume est fortement endetté et doit beaucoup d'argent aux Lannister. Il doit également faire face aux disputes de ses filles, Arya et Sansa, toujours rancunières des événements survenus sur la route royale. Lorsqu'on lui annonce l'arrivée de sa femme Catelyn dans la capitale, il s'empresse de la retrouver. Elle lui apprend la tentative de meurtre sur Bran et lui montre la dague de l'assassin, immédiatement identifiée par Petyr Baelish comme étant celle du frère de la reine Tyrion Lannister.\n<br>\n<br>À Winterfell, Bran, conscient depuis peu, essaie d'accepter son amnésie et son handicap ; pendant que sur le Mur, Jon Snow fait face à sa difficile condition de bâtard parmi ses futurs frères de la Garde de Nuit. Ce n'est que grâce à l'intervention du nain Tyrion Lannister qu'il échappe à un pugilat et qu'il comprend que ce n'est pas en prenant ses camarades de haut que sa condition s'améliorera. Tyrion quant à lui se fait alerter par mestre Æmon et le Lord Commandant de la Garde Jeor Mormont sur le manque de moyens humains et financiers du Mur, besoin d'autant plus urgent que les Autres semblent s'être réveillés.\n<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"got-1.html#video2-w\" data-toolbar=\"-mbrBtnMove\">View</a>",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "msg-box7",
+          "_anchor": "msg-box7-s"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-embedded-video",
+              "src": "https://openload.co/f/M-2FSLA6Jms/Taxi%2B3.avi.mp4",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-w"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-section-title, .lead p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "6",
+            "paddingBottom": "6",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mountains.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/18723066-600x800.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Taxi 4",
+          "text": "2007<br><br>De l'eau a coulé sous les ponts depuis la dernière aventure de Daniel et Emilien : les deux hommes sont désormais pères de famille et ont du mal à s'occuper de leurs fils, deux sacrés canailles. Une chose n'a pas changé cependant : Emilien est toujours le policier le plus maladroit et malchanceux de Marseille et Daniel le conducteur de taxi le plus rapide. Les deux hommes vont devoir faire équipe afin d'arrêter un terrifiant braqueur de banque surnommé `Le Belge'.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://www.youtube.com/results?search_query=trailer+taxi+4\" data-toolbar=\"-mbrBtnMove\">Trailer</a>",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "msg-box7",
+          "_anchor": "msg-box7-t"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-embedded-video",
+              "src": "https://openload.co/f/JgRnPohimb8/Taxi.4.FRENCH.DVDRiP.XviD.avi.mp4",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-x"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-section-title, .lead p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "6",
+            "paddingBottom": "6",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mountains.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/2548759-1200x1600.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Taxi 5",
+          "text": "2018<br><br>Sylvain Marot, super flic parisien et pilote d'exception, est muté contre son gré à la Police Municipale de Marseille. L'ex-commissaire Gibert, devenu maire de la ville et au plus bas dans les sondages, va alors lui confier la mission de stopper le redoutable `Gang des Italiens', qui écume des bijouteries à l'aide de puissantes Ferrari. Pour y parvenir, Marot n'aura pas d'autre choix que de collaborer avec le petit-neveu du célèbre Daniel, Eddy Maklouf, le pire chauffeur VTC de Marseille.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://www.youtube.com/results?search_query=trailer+taxi+5\" data-toolbar=\"-mbrBtnMove\">Trailer</a>",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "msg-box7",
+          "_anchor": "msg-box7-u"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-embedded-video",
+              "src": "https://openload.co/f/pBGxiWI21xE/Taxi_5.mp4",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-y"
         }
       ]
     }
