@@ -27,7 +27,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.7",
     "siteFonts": [],
-    "uniqCompNum": 54,
+    "uniqCompNum": 56,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png"
   },
@@ -8121,7 +8121,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/305158-1081x1600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/551764-1200x1600.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -8139,14 +8139,14 @@
               "size": 250
             }
           },
-          "title": "Fast and Furious",
-          "text": "2015<br><br>DescriptionÀ la suite des événements de Londres, Deckard Shaw cherche à venger la mort de son jeune frère. Le redoutable truand est prêt à tout pour éliminer Dominic Toretto et ses proches. Une milice privée vient d'enlever un mystérieux hackeur se faisant appeler Ramsay qui a créé un système de traçage révolutionnaire ; cet outil ultra-perfectionné et d'une diabolique efficacité ne doit en aucun cas tomber entre de mauvaises mains.<br>",
+          "title": "Fast and Furious 7",
+          "text": "2015\n<br>\n<br>DescriptionÀ la suite des événements de Londres, Deckard Shaw cherche à venger la mort de son jeune frère. Le redoutable truand est prêt à tout pour éliminer Dominic Toretto et ses proches. Une milice privée vient d'enlever un mystérieux hackeur se faisant appeler Ramsay qui a créé un système de traçage révolutionnaire ; cet outil ultra-perfectionné et d'une diabolique efficacité ne doit en aucun cas tomber entre de mauvaises mains.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://www.youtube.com/results?search_query=trailer+fast+and+furious+7\" data-toolbar=\"-mbrBtnMove\">Trailer</a>",
           "_tags": [
             "Thème"
           ],
           "_name": "msg-box7",
-          "_anchor": "msg-box7-1e"
+          "_anchor": "msg-box7-1j"
         },
         {
           "_params": {
