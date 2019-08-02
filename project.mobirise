@@ -2124,7 +2124,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#f3c649!important"
             }
           },
           "_params": {
@@ -2178,7 +2178,7 @@
             "video": {
               "active": true,
               "class": "mbr-embedded-video",
-              "src": "https://openload.co/f/w-ZkFEaKbfE/Black.Panther.2018.FRENCH.BDRip.XviD-FuN.avi.mp4",
+              "src": "https://openload.co/f/tMn-1x06rog/Black.Panther.2018.FRENCH.BDRip.XviD-FuN.avi.mp4",
               "autoplay": false,
               "loop": false
             }
@@ -8389,7 +8389,7 @@
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
-            "ShowTexts": true,
+            "ShowTexts": false,
             "showButtons": true,
             "columnsColor": "#2e2e2e",
             "paddingTop": 2,
@@ -8410,7 +8410,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/1200-l-une-plaque-marocaine-pour-la-plus-celebre-des-407-600x320.jpg",
+              "src": "@PROJECT_PATH@/assets/images/175331-405x540.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8432,7 +8432,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/fast-furious-logo-fast-furious-600x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/black-panther-affiche-personnages-2018-600x857.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8443,7 +8443,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/coming-soo-600x600.png",
+              "src": "@PROJECT_PATH@/assets/images/0842353-600x817.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8468,16 +8468,16 @@
               "active": true
             }
           },
-          "title1": "Taxi",
+          "title1": "Avengers",
           "subtitle1": "g",
           "caption1": "Taxi 1<br>Taxi 2<br>Taxi 3<br>Taxi 4<br>Taxi 5<br>",
           "title2": "Iron man",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "Iron man 1<br>Iron man 2<br>Iron man 3<br>",
-          "title3": "Fast and Furious",
+          "title3": "Black Panther",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Fast and Furious<br>2 Fast 2 Furious<br>Tokyo Drift<br>Fast and Furious 4<br>Fast Five<br>Fast and Furious 6<br>Fast and Furious 7<br>Fast and Furious 8",
-          "title4": "Coming Soon",
+          "title4": "Ant-Man",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Coming Soon",
           "title5": "Trendy Website Blocks",
@@ -8486,10 +8486,10 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"Taxi.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"avengers-infinity-war.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button2": "<a data-app-btn=\"true\" href=\"iron-man.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"fast-and-furious.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"black-panther.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
