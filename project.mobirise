@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Streaming",
-    "currentPage": "page32.html",
+    "currentPage": "fast-and-furious.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -27,7 +27,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.7",
     "siteFonts": [],
-    "uniqCompNum": 56,
+    "uniqCompNum": 57,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png"
   },
@@ -2807,7 +2807,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#f3c649!important"
             }
           },
           "_params": {
@@ -7452,7 +7452,7 @@
         }
       ]
     },
-    "page32.html": {
+    "fast-and-furious.html": {
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Fast and Furious",
@@ -8036,7 +8036,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/305158-1081x1600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/915yevu8wil.-sy679-458x679.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -8055,40 +8055,13 @@
             }
           },
           "title": "Fast and Furious 6",
-          "text": "2013<br><br>Dom, Brian et toute leur équipe, après le casse de Rio, se sont dispersés aux quatre coins du globe. Mais l'incapacité de rentrer chez eux, et l'obligation de vivre en cavale permanente, laissent à leur vie le goût amer de l'inaccomplissement.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://www.youtube.com/results?search_query=trailer+fast+and+furious+6\" data-toolbar=\"-mbrBtnMove\">Trailer</a>",
+          "text": "2013\n<br>\n<br>Dom, Brian et toute leur équipe, après le casse de Rio, se sont dispersés aux quatre coins du globe. Mais l'incapacité de rentrer chez eux, et l'obligation de vivre en cavale permanente, laissent à leur vie le goût amer de l'inaccomplissement.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Trailer</a>",
           "_tags": [
             "Thème"
           ],
           "_name": "msg-box7",
-          "_anchor": "msg-box7-1c"
-        },
-        {
-          "_params": {
-            "showText": false,
-            "paddingTop": 4,
-            "paddingBottom": 4,
-            "bgColor": "#fff"
-          },
-          "media": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/image1.jpg",
-              "width": 1400
-            },
-            "video": {
-              "active": true,
-              "class": "mbr-embedded-video",
-              "src": "https://openload.co/f/pBGxiWI21xE/Taxi_5.mp4",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Thème"
-          ],
-          "_name": "video2",
-          "_anchor": "video2-1d"
+          "_anchor": "msg-box7-1k"
         },
         {
           "_inherit": "msg-box5",
@@ -8149,33 +8122,6 @@
           "_anchor": "msg-box7-1j"
         },
         {
-          "_params": {
-            "showText": false,
-            "paddingTop": 4,
-            "paddingBottom": 4,
-            "bgColor": "#fff"
-          },
-          "media": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/image1.jpg",
-              "width": 1400
-            },
-            "video": {
-              "active": true,
-              "class": "mbr-embedded-video",
-              "src": "https://openload.co/f/pBGxiWI21xE/Taxi_5.mp4",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Thème"
-          ],
-          "_name": "video2",
-          "_anchor": "video2-1f"
-        },
-        {
           "_inherit": "msg-box5",
           "_styles": {
             ".mbr-section-title, .lead p": {
@@ -8232,33 +8178,6 @@
           ],
           "_name": "msg-box7",
           "_anchor": "msg-box7-1g"
-        },
-        {
-          "_params": {
-            "showText": false,
-            "paddingTop": 4,
-            "paddingBottom": 4,
-            "bgColor": "#fff"
-          },
-          "media": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/image1.jpg",
-              "width": 1400
-            },
-            "video": {
-              "active": true,
-              "class": "mbr-embedded-video",
-              "src": "https://openload.co/f/pBGxiWI21xE/Taxi_5.mp4",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Thème"
-          ],
-          "_name": "video2",
-          "_anchor": "video2-1h"
         }
       ]
     }
