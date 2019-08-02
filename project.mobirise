@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Streaming",
-    "currentPage": "accident-man.html",
+    "currentPage": "ant-man-et-la-guepe.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -1566,7 +1566,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#f3c649!important"
             }
           },
           "_params": {
@@ -1620,7 +1620,7 @@
             "video": {
               "active": true,
               "class": "mbr-embedded-video",
-              "src": "https://openload.co/f/jdwqmbJmprs/Ant-Man_et_la_Gu%C3%AApe_%282018%29.mp4",
+              "src": "https://openload.co/f/-LqFvL0u2hM/Ant-Man_et_la_Gu%C3%AApe_%282018%29.mp4",
               "autoplay": false,
               "loop": false
             }
