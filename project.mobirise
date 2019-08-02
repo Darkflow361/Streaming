@@ -150,7 +150,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#f3c649!important"
             }
           },
           "_params": {
@@ -8248,7 +8248,9 @@
             "video": {
               "active": true,
               "class": "mbr-embedded-video",
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+              "src": "https://openload.co/f/_qGnCnSrSw4/Fast_And_Furious_8.mp4",
+              "autoplay": false,
+              "loop": false
             }
           },
           "text": "Create awesome mobile-friendly websites. No coding and free.",
