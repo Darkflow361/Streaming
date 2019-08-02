@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Streaming",
-    "currentPage": "fast-and-furious.html",
+    "currentPage": "accident-man.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -204,7 +204,7 @@
             "video": {
               "active": true,
               "class": "mbr-embedded-video",
-              "src": "https://openload.co/f/FGhONAbHo0Q/Accident_Man.mp4",
+              "src": "https://openload.co/f/Z-AbMyEvDFA/Accident_Man.mp4",
               "autoplay": false,
               "loop": false
             }
